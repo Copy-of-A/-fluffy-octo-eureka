@@ -1,0 +1,10 @@
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\bin\Debug\Cubes_and_words.exe.config
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\bin\Debug\Cubes_and_words.exe
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\bin\Debug\Cubes_and_words.pdb
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.csprojAssemblyReference.cache
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.MainForm.resources
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.Properties.Resources.resources
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.csproj.GenerateResource.cache
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.csproj.CoreCompileInputs.cache
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.exe
+C:\Users\allam\Desktop\VSU\Third\Комбинаторные алгоритмы\Cubes_and_words\Cubes_and_words\obj\Debug\Cubes_and_words.pdb
